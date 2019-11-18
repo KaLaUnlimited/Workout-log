@@ -2,4 +2,4 @@
 Technologies used:
 * JQuery
 * Express
-* 
+* Mongo/Mongoose
